@@ -5,7 +5,7 @@
 **Project Link:** [View Project](http://learn.nextwork.org/projects/aws-networks-ec2)
 
 **Author:** Aaron  
-**Email:** longshotbeats@gmail.com
+**Email:** justaaron1981@yahoo.com
 
 ---
 
